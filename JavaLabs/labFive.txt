@@ -1,0 +1,1 @@
+{"saveMatrix":[[3,-3,9,2,-19],[1,-11,-6,18,-10],[-9,-20,13,-16,19],[0,-4,-16,-1,-15],[2,2,19,18,18]],"saveNumberRows":3,"saveNumberColumns":3,"saveMaxElem":13,"saveMinElem":-20,"saveSumElem":-23}
